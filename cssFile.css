@@ -1,0 +1,18 @@
+/* 设置标题样式 */
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+
+/* 设置导航链接样式 */
+nav a {
+    text-decoration: none;
+    color: gray;
+    margin-right: 20px;
+}
+
+/* 设置主要内容区域样式 */
+main {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
